@@ -1,0 +1,32 @@
+body{
+  background-color: #8B6F8D;
+
+}
+
+.container {
+
+margin: 100px 400px;
+
+}
+
+#boton1{
+  background: #A482A6;
+  box-shadow: -5.61473px 7.48631px 7.48631px #8B6F8D, 7.48631px -5.61473px 7.48631px #BD96BF;
+  border-radius: 93.5788px;
+  padding: 16.7894px 24.8631px;
+  border: solid 1px #A482A6;
+  color: white;
+  font-weight: bold;
+  
+}
+
+h1{
+  color: white;
+}
+
+#caja{
+  padding-top: 20px;
+width: 300px;
+  color: white;
+  font-size: 24px;
+}
